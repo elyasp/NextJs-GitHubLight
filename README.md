@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Using a previous React project, I'm migrating to Next.js to enable serverside rendering for comparison and training purposes.
